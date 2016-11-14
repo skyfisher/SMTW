@@ -1,5 +1,6 @@
-SMTW(Stacked Marginal Time Warping)
+SMTW
 ------
+Stacked Marginal Time Warping
 
 Description
 ----------------
